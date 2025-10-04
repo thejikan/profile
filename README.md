@@ -9,9 +9,11 @@ Crafting smooth, high-performance apps with **real-time systems, clean architect
 
 ### 🚀 Mobile App Developer  
 **Massive Mobility**  
-[![1C EV Charging – Play Store](https://img.shields.io/badge/OneCharge-Play_Store-333333?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=in.one.charging&hl=en_IN)  [![1C EV Charging – App Store](https://img.shields.io/badge/OneCharge-App_Store-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/in/app/1c-ev-charging/id6478754214)  
-[![CPO App – Play Store](https://img.shields.io/badge/CPO_App-Play_Store-333333?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.one.onec_cpo)  [![CPO App – App Store](https://img.shields.io/badge/CPO_App-App_Store-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/in/app/1c-cpo/id6744142028)  
-[![Hub App – Play Store](https://img.shields.io/badge/Hub_App-Play_Store-333333?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.one.onecstation)  [![Hub App – App Store](https://img.shields.io/badge/Hub_App-App_Store-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/in/app/1c-hub/id6743695532)
+**1C EV Charging App** -  [![Play Store](https://img.shields.io/badge/Play_Store-333333?logo=google-play&logoColor=white&style=flat-square)](https://play.google.com/store/apps/details?id=in.one.charging&hl=en_IN)  [![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=apple&logoColor=white&style=flat-square)](https://apps.apple.com/in/app/1c-ev-charging/id6478754214)  
+
+**CPO App** -  [![Play Store](https://img.shields.io/badge/Play_Store-333333?logo=google-play&logoColor=white&style=flat-square)](https://play.google.com/store/apps/details?id=com.one.onec_cpo)  [![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=apple&logoColor=white&style=flat-square)](https://apps.apple.com/in/app/1c-cpo/id6744142028)  
+
+**Hub App** -  [![Play Store](https://img.shields.io/badge/Play_Store-333333?logo=google-play&logoColor=white&style=flat-square)](https://play.google.com/store/apps/details?id=com.one.onecstation)  [![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=apple&logoColor=white&style=flat-square)](https://apps.apple.com/in/app/1c-hub/id6743695532)
 
 - 🛠️ Built the flagship **1C EV Charging App** from scratch — live on both Play Store and App Store  
 - ⚡ Integrated **OCPI & Server-Sent Events (SSE)** protocols for real-time station operations  
