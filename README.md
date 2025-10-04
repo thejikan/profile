@@ -28,7 +28,7 @@ Crafting smooth, high-performance apps with **real-time systems, clean architect
 ---
 
 ### 🧠 Software Developer  
-**Undostres** *(Mexico’s Leading Payments Platform)*  
+**Undostres** *(Mexico’s Payments Platform)*  
 [![Website](https://img.shields.io/badge/Website-000000?logo=Google-Chrome&logoColor=white)](https://undostres.com.mx)  [![Play Store](https://img.shields.io/badge/Play%20Store-333333?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=www.undostres.com.mx&hl=en_IN)  [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/mx/app/undostres-recargas-y-pagos/id1375793322)
 
 - 🔁 Migrated legacy Android app to **Flutter + Bloc**, reducing technical debt and accelerating release cycles by **25%**  
